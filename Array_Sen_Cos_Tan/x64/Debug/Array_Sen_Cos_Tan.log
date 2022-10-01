@@ -1,0 +1,7 @@
+﻿  Math.cpp
+C:\Users\guard\OneDrive\Escritorio\c++\Array_Sen_Cos_Tan\Array_Sen_Cos_Tan\Math.cpp(91,32): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\guard\OneDrive\Escritorio\c++\Array_Sen_Cos_Tan\Array_Sen_Cos_Tan\Math.cpp(102,53): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\guard\OneDrive\Escritorio\c++\Array_Sen_Cos_Tan\Array_Sen_Cos_Tan\Math.cpp(114,32): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\guard\OneDrive\Escritorio\c++\Array_Sen_Cos_Tan\Array_Sen_Cos_Tan\Math.cpp(125,49): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\guard\OneDrive\Escritorio\c++\Array_Sen_Cos_Tan\Array_Sen_Cos_Tan\Math.cpp(137,32): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Array_Sen_Cos_Tan.vcxproj -> C:\Users\guard\OneDrive\Escritorio\c++\Array_Sen_Cos_Tan\x64\Debug\Array_Sen_Cos_Tan.exe
